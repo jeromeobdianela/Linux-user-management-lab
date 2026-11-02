@@ -1,7 +1,9 @@
 # 👤 Add and Manage Users with Linux Commands
 
 **Course:** Google Cybersecurity Certificate
+
 **Environment:** Linux Bash shell
+
 **Skills practiced:** User authentication management, group management, file ownership, least privilege
 
 ---
